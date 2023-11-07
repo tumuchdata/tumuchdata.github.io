@@ -1,0 +1,10 @@
+[
+    {
+        "title": "OxidSQL",
+        "description": "A toy SQL database system written in Rust",
+        "repo": "https://github.com/mzinsmeister/OxidSQL"
+    },
+    {
+        "description": "Submit a PR to add your project to the list!"
+    }
+]

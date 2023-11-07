@@ -1,0 +1,20 @@
+{{ range $.Site.Data.events }}
+   <h3 style="margin-bottom: 5px;">{{ .title }}</h3>
+   <div>{{ .description }}</div>
+   <div>
+    {{ $format := "02.01.2006 15:04" }}
+    {{ $t := time.AsTime .start }}
+    {{ $t.Format $format }}
+    {{ if .end }}
+        {{ $t = time.AsTime .end }}
+        {{ if ne (time.Format "2006-01-02" .start) (time.Format "2006-01-02" .end) }}
+            - {{ $t.Format $format }}
+        {{ else }}
+            - {{ $t.Format "15:04" }}
+        {{ end }}
+    {{ end }}
+   </div>
+   {{ if .location }}
+   <div>{{ .location }}</div>
+   {{ end }}
+{{ end }}

@@ -1,0 +1,7 @@
+{{ range $.Site.Data.projects }}
+   <h3 style="margin-bottom: 5px;">{{ .title }}</h3>
+   <div>{{ .description }}</div>
+   {{ if .repo }}
+   <a href="{{ .repo }}">Repository</a>
+   {{ end }}
+{{ end }}

@@ -1,2 +1,10 @@
+baseURL = 'http://tumuchdata.org/'
+languageCode = 'en-us'
+title = 'TUMuchData'
 theme = 'ananke'
-theme = 'ananke'
+sectionPagesMenu = 'main'
+[params]
+background_color_class = "bg-navy"
+custom_css = ["custom.css"]
+dateFormat = "02.01.2006"
+
