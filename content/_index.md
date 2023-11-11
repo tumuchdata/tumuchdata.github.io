@@ -1,6 +1,6 @@
 +++
 title = 'TUMuchData'
-description = 'Student Initiative for Database Systems'
+description = 'The Munich Database Club'
 +++
 
 
