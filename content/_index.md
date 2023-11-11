@@ -1,7 +1,6 @@
 +++
 title = 'TUMuchData'
 description = 'Student Initiative for Database Systems'
-featured_image = '/images/TUM_FMI_Bibliothek.jpg'
 +++
 
 

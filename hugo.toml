@@ -4,7 +4,8 @@ title = 'TUMuchData'
 theme = 'ananke'
 sectionPagesMenu = 'main'
 [params]
-background_color_class = "bg-navy"
+background_color_class = "bg-moon-gray"
 custom_css = ["custom.css"]
 dateFormat = "02.01.2006"
+site_logo="images/Logo-alpha.png"
 
