@@ -1,7 +1,8 @@
 ---
 title: "Imprint"
 description: "Impressum"
-menu: footer
+menu: 'footer'
+showMetadata: false
 ---
 
 Georg Kreuzmayr

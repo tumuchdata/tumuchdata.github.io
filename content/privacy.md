@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
-menu: footer
+menu: 'footer'
+showMetadata: false
 ---
 
 Note: since we are based in germany the privacy notice will be provided in german language only.

@@ -1,0 +1,19 @@
+<footer class="footer">
+    {{ with .Site.Params.footerHtml }}
+        <span>{{ . | safeHTML }}</span>
+    {{ else }}
+        <span>
+            <nav class="footerLinks">
+                <ul>
+                    {{ range .Site.Menus.footer }}
+                    <li>
+                        <a href="{{ .URL | absURL }}" title="{{ .Title }}" >
+                            ~/{{- .Name -}}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </span>
+    {{ end }}
+</footer>
