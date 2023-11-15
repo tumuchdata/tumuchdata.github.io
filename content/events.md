@@ -1,6 +1,6 @@
 +++
 menu = 'header'
-title = 'Events'
+title = 'events'
 weight = 20
 showMetadata = false
 +++

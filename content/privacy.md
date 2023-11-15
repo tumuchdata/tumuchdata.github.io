@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "privacy_policy"
 menu: 'footer'
 showMetadata: false
 ---
@@ -59,7 +59,7 @@ Georg Kreuzmayr
 Steinickeweg 4
 80798 München, Deutschland
 Vertretungsberechtigt: Georg Kreuzmayr  
-E-Mail: [georg.kreuzmayr@tum.de](mailto:georg.kreuzmayr@tum.de)  
+E-Mail: [georg@tumuchdata.club](mailto:georg@tumuchdata.club)  
 Telefon: [+49 1590 1777181](tel:+49 1590 1777181)  
 Impressum: [{{<ref "/imprint">}}]({{<ref "/imprint">}})
 

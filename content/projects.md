@@ -1,6 +1,6 @@
 +++
 menu = 'header'
-title = 'Student Projects'
+title = 'student_projects'
 weight = 30
 showMetadata = false
 +++
