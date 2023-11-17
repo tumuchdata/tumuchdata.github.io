@@ -6,6 +6,6 @@ author = "TUMuchData"
 
 {{< index-header "TUMuchData" >}}
 
-## The Munich Database Club
+## the munich database club.
 
 {{< socials >}}
