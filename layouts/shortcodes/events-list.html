@@ -1,6 +1,6 @@
 {{ range $.Site.Data.events }}
    <h3 style="margin-bottom: 5px;">{{ .title }}</h3>
-   <div>{{ .description }}</div>
+   <div>{{ safeHTML .description }}</div>
    <div>
     {{ $format := "02.01.2006 15:04" }}
     {{ $t := time.AsTime .start }}
