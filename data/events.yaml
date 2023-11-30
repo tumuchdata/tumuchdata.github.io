@@ -9,7 +9,9 @@
   image: /images/events/Umbra-talk.jpeg
 
 - title: Paper Reading Group
-  description: Weekly Paper Reading Group
+  description: |-
+    Weekly Paper Reading Group.<br>
+    <b>Talk by Dr. Dominik Durner about AnyBlob.</b>
   start: '2023-11-30T18:00:00'
   end: '2023-11-30T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room 02.09.014
