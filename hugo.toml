@@ -5,7 +5,7 @@ theme = 'nightfall'
 
 [params]
 dateFormat = "02.01.2006"
-site_logo="images/Logo-alpha.png"
+site_logo="images/logo_white.svg"
 hostname = "tumuchdata.club"
 user = "db"
 title = "TUMuchData"

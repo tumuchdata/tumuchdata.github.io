@@ -2,10 +2,10 @@
 author = "TUMuchData"
 +++
 
-<img src="images/Logo-alpha-no-text.png" style="max-width: 100px;" />
+<img src="images/logo_white.svg" style="max-width: 200px;" />
 
 {{< index-header "TUMuchData" >}}
 
-## the munich database club.
+<p class="code">the munich database club.</p>
 
 {{< socials >}}
