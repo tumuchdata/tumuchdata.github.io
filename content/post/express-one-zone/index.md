@@ -3,6 +3,7 @@ date: "2023-12-06"
 title: "Data Processing on AWS S3 Express One Zone"
 description: "S3 Express One Zone and AnyBlob"
 authors: ["Georg Kreuzmayr"]
+levels: ["intermediate"]
 tags: ["cloud", "networking", "storage"]
 ---
 

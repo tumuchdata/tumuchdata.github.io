@@ -8,9 +8,11 @@
     {{ if .Params.showMetadata | default true }}
     <section class="postMetadata">
         <dl>
-            <p></p>
             {{ with .GetTerms "tags" }}
                 {{ partial "taxonomy/tags.html" . }}
+            {{ end }}
+            {{ with .GetTerms "levels" }}
+                {{ partial "taxonomy/levels.html" . }}
             {{ end }}
             {{ with .GetTerms "authors" }}
                 {{ partial "taxonomy/authors.html" . }}

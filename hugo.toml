@@ -18,3 +18,4 @@ unsafe = true # Allow HTML in md files
 [taxonomies]
 author = "authors"
 tag = "tags"
+level = "levels"
