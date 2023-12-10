@@ -1,0 +1,17 @@
+<!-- [html-validate-disable element-required-ancestor] -->
+<dt>{{ i18n "authors" }}</dt>
+<dd>
+{{ $len := len . }}
+{{ if eq $len 1 }}
+    <span></span>
+    <a href="{{ (index . 0).RelPermalink }}">{{- (index . 0).LinkTitle -}}</a>
+{{ else }}
+    {{ $last := sub $len 1 }}
+    {{ range first $last . }}
+        <span></span>
+        <a href="{{ .RelPermalink }}">{{- .LinkTitle -}}</a>,
+    {{ end }}
+    <span></span>
+    <a href="{{ (index . $last).RelPermalink }}">{{- (index . $last).LinkTitle -}}</a>
+{{ end }}
+</dd>
