@@ -47,6 +47,7 @@
     // Add a header for upcoming events
     if (upcoming.length > 0) {
         var header = document.createElement('h2');
+        header.style.marginTop = '2rem';
         header.innerHTML = 'Upcoming events';
         parent.appendChild(header);
     }
@@ -56,6 +57,7 @@
     // Add a header for past events
     if (past.length > 0) {
         var header = document.createElement('h2');
+        header.style.marginTop = '4rem';
         header.innerHTML = 'Past events';
         parent.appendChild(header);
     }
