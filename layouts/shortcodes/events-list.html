@@ -1,20 +1,66 @@
+<div class="events-list">
 {{ range $.Site.Data.events }}
-   <h3 style="margin-bottom: 5px;">{{ .title }}</h3>
-   <div>{{ safeHTML .description }}</div>
-   <div>
-    {{ $format := "02.01.2006 15:04" }}
-    {{ $t := time.AsTime .start }}
-    {{ $t.Format $format }}
-    {{ if .end }}
-        {{ $t = time.AsTime .end }}
-        {{ if ne (time.Format "2006-01-02" .start) (time.Format "2006-01-02" .end) }}
-            - {{ $t.Format $format }}
-        {{ else }}
-            - {{ $t.Format "15:04" }}
-        {{ end }}
+    <div class="event-block" data-event-date="{{ .start }}">
+        <h3 style="margin-bottom: 5px;">{{ .title }}</h3>
+        <div>{{ safeHTML .description }}</div>
+        <div>
+         {{ $format := "02.01.2006 15:04" }}
+         {{ $t := time.AsTime .start }}
+         {{ $t.Format $format }}
+         {{ if .end }}
+             {{ $t = time.AsTime .end }}
+             {{ if ne (time.Format "2006-01-02" .start) (time.Format "2006-01-02" .end) }}
+                 - {{ $t.Format $format }}
+             {{ else }}
+                 - {{ $t.Format "15:04" }}
+             {{ end }}
+         {{ end }}
+        </div>
+        {{ if .location }}
+        <div>{{ .location }}</div>
+    </div>
     {{ end }}
-   </div>
-   {{ if .location }}
-   <div>{{ .location }}</div>
-   {{ end }}
-{{ end }}
+ {{ end }}
+ <script>
+    // Sort events into past and upcoming
+    // put upcoming events to the top of the list sorted by date ascending
+    // and past events to the bottom of the list sorted by date descending
+    var events = document.querySelectorAll('.events-list .event-block');
+    var upcoming = [];
+    var past = [];
+    for (var i = 0; i < events.length; i++) {
+        var event = events[i];
+        var date = new Date(event.getAttribute('data-event-date'));
+        if (date > new Date()) {
+            upcoming.push(event);
+        } else {
+            past.push(event);
+        }
+    }
+    upcoming.sort(function(a, b) {
+        return new Date(a.getAttribute('data-event-date')) - new Date(b.getAttribute('data-event-date'));
+    });
+    past.sort(function(a, b) {
+        return new Date(b.getAttribute('data-event-date')) - new Date(a.getAttribute('data-event-date'));
+    });
+    var parent = events[0].parentNode;
+    // Add a header for upcoming events
+    if (upcoming.length > 0) {
+        var header = document.createElement('h2');
+        header.innerHTML = 'Upcoming events';
+        parent.appendChild(header);
+    }
+    for (var i = 0; i < upcoming.length; i++) {
+        parent.appendChild(upcoming[i]);
+    }
+    // Add a header for past events
+    if (past.length > 0) {
+        var header = document.createElement('h2');
+        header.innerHTML = 'Past events';
+        parent.appendChild(header);
+    }
+    for (var i = 0; i < past.length; i++) {
+        parent.appendChild(past[i]);
+    }
+ </script>
+</div>
