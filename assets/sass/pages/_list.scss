@@ -1,0 +1,13 @@
+@import "../utils/variables";
+
+.listHeader, .listContent {
+    text-align: left;
+}
+
+main {
+    width: 100%;
+}
+
+.postListItem {
+    word-wrap: break-word;
+}
