@@ -1,7 +1,7 @@
 +++
 menu = 'header'
 title = 'about'
-weight = 10
+weight = 1
 showMetadata = false
 +++
 
