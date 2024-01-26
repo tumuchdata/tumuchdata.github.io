@@ -7,7 +7,7 @@ levels: ["intermediate"]
 tags: ["cloud", "networking", "storage"]
 ---
 
-![]({{< ref "express-one-zone" >}}/express-one-zone.jpeg)
+![](express-one-zone.jpeg)
 
 At this year's re:invent conference, AWS announced a new storage class, S3 Express One Zone (S3 EOZ), that offers single-digit millisecond latency, an up to 100x improvement over S3 Standard, which leaves us wondering if this could disrupt database design in the cloud we know today.
 
