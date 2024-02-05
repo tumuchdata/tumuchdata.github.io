@@ -17,7 +17,7 @@
          {{ end }}
         </div>
         {{ if .location }}
-        <div>{{ .location }}</div>
+        <div>{{ safeHTML .location }}</div>
     </div>
     {{ end }}
  {{ end }}
