@@ -1,5 +1,5 @@
 ---
-date: "2023-01-20"
+date: "2023-02-07"
 title: "Why databases found their old love of disk again"
 description: "How database storage technology changed over time"
 authors: ["Michael Zinsmeister"]
