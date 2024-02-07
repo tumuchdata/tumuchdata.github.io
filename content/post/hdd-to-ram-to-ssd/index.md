@@ -17,7 +17,7 @@ Until recently, it was conventional wisdom in the database world that you had to
 
 # The traditional tradeoff
 
-Disk-based databases are known to be cheaper to operate because they don’t require the entire dataset to fit into RAM. In-memory systems, on the other hand, are known to be extremely fast because RAM has much higher throughput and much lower latency than disk. The difference is huge, especially when compared against a spinning disk (HDD). We’re talking ~100,000x difference in latency and a ~200x difference in throughput (although that can be minimized by putting multiple disks into a RAID array). Therefore, the only thing that mattered traditionally was minimizing the disk I/O. Even after optimizing that, the disk still usually dominated performance.
+Disk-based databases are known to be cheaper to operate because they don’t require the entire dataset to fit into RAM. In-memory systems, on the other hand, are known to be extremely fast because RAM has much higher bandwidth and much lower latency than disk. The difference is huge, especially when compared against a spinning disk (HDD). We’re talking ~100,000x difference in latency and a ~200x difference in bandwidth (although that can be minimized by putting multiple disks into a RAID array). Therefore, the only thing that mattered traditionally was minimizing the disk I/O. Even after optimizing that, the disk still usually dominated performance.
 
 Disks are insanely cheap. You can get a TB of HDD for 10-20€ nowadays. RAM is still expensive. A TB of server-grade ECC DDR4 RAM is gonna set you back 1-2000€. That’s a factor of 100x difference in price. So if you have a 10TB dataset, you’re looking at 100-200€ for the HDD and 10-20k€ for the RAM.
 
