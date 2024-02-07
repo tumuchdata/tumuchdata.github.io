@@ -7,7 +7,7 @@ levels: ["beginner"]
 tags: ["disk", "flash", "in-memory", "storage"]
 ---
 
-"640K ought to be enough for anybody." - Bill Gates claims to have never actually said that. 640KB is definitely not enough to hold most data sets in memory. That’s why the assumption made in old database systems is that you have to access the disk for basically every operation. Since HDDs were essentially the only available storage medium for databases at the time (other than tape), the cost of IO accesses dominated database performance. The cost decrease and capacity increase of RAM and the advent of flash storage introduced new opportunities for database systems. Let’s explore the different storage options.
+"640K ought to be enough for anybody." - Bill Gates claims to have never actually said that. 640KB is definitely not enough to hold most data sets in memory. That’s why the assumption made in old database systems is that you have to access the disk for basically every operation. Since HDDs were essentially the only available storage medium for databases at the time (other than tape), the cost of I/O accesses dominated database performance. The cost decrease and capacity increase of RAM and the advent of flash storage introduced new opportunities for database systems. Let’s explore the different storage options.
 
 # Time for a complete rewrite?
 
