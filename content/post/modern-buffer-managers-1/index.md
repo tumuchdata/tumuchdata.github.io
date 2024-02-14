@@ -2,6 +2,7 @@
 date: "2024-02-14"
 title: "How to have your cake and eat it too with modern buffer management Pt. 1: Pointer Swizzling"
 description: "An overview over modern in-memory optimized buffer management techniques. Part 1 is about traditional buffer management, MMAP and Pointer Swizzling"
+thumbnail: "thumbnail.png"
 authors: ["Michael Zinsmeister"]
 levels: ["intermediate"]
 tags: ["buffer-management", "in-memory", "storage"]

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <title>{{ block "title" . }}
+        {{ .Site.Title }}
+        {{ end }}</title>
+
+    
+    <meta property="og:name" content="{{ .Params.Title }}" />
+
+    {{ if .Params.Thumbnail }}
+        <meta property="og:image" content="{{ .Page.Permalink }}{{ .Params.Thumbnail }}" />
+    {{ end }}
+
+    {{ partial "head.html" . }}
+
+</head>
+
+<body>
+
+    <div class="flexWrapper">
+        {{ partial "header.html" . }}
+
+        <div class="content">
+            <main class="main">
+                {{ block "main" . }}
+                {{ end }}
+            </main>
+        </div>
+
+
+        {{ partial "footer.html" . }}
+    </div>
+
+</body>
+
+</html>
