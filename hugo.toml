@@ -19,3 +19,10 @@ unsafe = true # Allow HTML in md files
 author = "authors"
 tag = "tags"
 level = "levels"
+
+
+
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
