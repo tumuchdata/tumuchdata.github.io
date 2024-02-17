@@ -12,6 +12,21 @@ title = "TUMuchData"
 subtitle = "The Munich Database Club"
 showMetadata = false
 
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/tumuchdata"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/company/tumuchdata/"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:contact@tumuchdata.club"
+
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
 
@@ -19,8 +34,6 @@ unsafe = true # Allow HTML in md files
 author = "authors"
 tag = "tags"
 level = "levels"
-
-
 
 [sitemap]
   changeFreq = ''

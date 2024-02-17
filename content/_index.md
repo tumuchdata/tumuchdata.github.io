@@ -6,6 +6,8 @@ author = "TUMuchData"
 
 {{< index-header "TUMuchData" >}}
 
-<p class="code">the munich database club.</p>
+<h3 class="tumuchdata-subtext">the munich database club.</h3>
+
+<br>
 
 {{< socials >}}
