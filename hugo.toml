@@ -15,16 +15,19 @@ showMetadata = false
 [[params.social]]
 key = 0
 name = "github"
+icon="fa-brands fa-github"
 url = "https://github.com/tumuchdata"
 
 [[params.social]]
 key = 2
 name = "linkedin"
+icon="fa-brands fa-linkedin-in"
 url = "https://www.linkedin.com/company/tumuchdata/"
 
 [[params.social]]
 key = 3
 name = "email"
+icon="fa-solid fa-envelope"
 url = "mailto:contact@tumuchdata.club"
 
 [markup.goldmark.renderer]
