@@ -4,6 +4,9 @@
     {{ else }}
         <span>
             <nav class="footerLinks">
+                {{ if isset .Site.Params "social" }}
+                    {{ partial "social.html" . }}
+                {{ end }}
                 <ul>
                     {{ range .Site.Menus.footer }}
                     <li>
@@ -13,9 +16,6 @@
                     </li>
                     {{ end }}
                 </ul>
-                {{ if isset .Site.Params "social" }}
-                    {{ partial "social.html" . }}
-                {{ end }}
             </nav>
         </span>
     {{ end }}
