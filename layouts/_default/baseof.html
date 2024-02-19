@@ -9,6 +9,7 @@
     
     <meta property="og:name" content="{{ .Params.Title }}" />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ .Page.Permalink }}" />
 
     {{ if .Params.Thumbnail }}
         <meta property="og:image" content="{{ .Page.Permalink }}{{ .Params.Thumbnail }}" />
