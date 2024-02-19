@@ -13,6 +13,9 @@
                     </li>
                     {{ end }}
                 </ul>
+                {{ if isset .Site.Params "social" }}
+                    {{ partial "social.html" . }}
+                {{ end }}
             </nav>
         </span>
     {{ end }}

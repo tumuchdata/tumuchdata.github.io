@@ -9,5 +9,3 @@ author = "TUMuchData"
 <p class="tumuchdata-subtext">the munich database club.</p>
 
 <br>
-
-{{< socials >}}
