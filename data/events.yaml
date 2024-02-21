@@ -64,10 +64,23 @@
   end: '2024-02-08T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
+- title: Munich Database Meetup
+  description: |-
+    Bringing together database enthusiasts from industry and academia in munich.<br>
+    <b>Talks:</b><br>
+    <ul>
+      <li><a href="https://cedardb.com/">CedarDB</a> by Philipp Fent: Dive into the world of <a href="https://umbra-db.com">Umbra</a> implementation and discover what makes CedarDB stand out.</li>
+      <li><a href="https://www.jetbrains.com/fleet/">RhizomeDB</a> by Andrey Zaytsev: Learn about this innovative local-first CRDT-based framework from the brilliant minds at JetBrains.</li>
+    </ul>
+  start: '2024-03-25T18:30:00'
+  end: '2024-03-25T21:30:00'
+  location: '<a href="https://www.codecentric.de/">codecentric AG</a> Office: August-Everding-Straße 20, 81671 München'
+
 - title: Paper Reading Group
   description: |-
     Weekly Paper Reading Group.<br>
     <b>Talk by Peter Boncz about <a href="https://motherduck.com/">MotherDuck</a>.</b>
   start: '2024-04-24T18:00:00'
   end: '2024-04-24T19:00:00'
-  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+  location: TUM Campus Garching
+

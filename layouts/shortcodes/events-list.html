@@ -1,9 +1,10 @@
 <div class="events-list">
 {{ range $.Site.Data.events }}
-    <div class="event-block" data-event-date="{{ .start }}">
-        <h3 style="margin-bottom: 5px;">{{ .title }}</h3>
+    <div class="event-block" style="margin-bottom: 2rem;" data-event-date="{{ .start }}">
+        <h3 style="margin-bottom: 5px;" >{{ .title }}</h3>
         <div>{{ safeHTML .description }}</div>
-        <div>
+        <div style="margin-top: 0.6rem">
+        <b>Time: </b>
          {{ $format := "02.01.2006 15:04" }}
          {{ $t := time.AsTime .start }}
          {{ $t.Format $format }}
@@ -17,7 +18,7 @@
          {{ end }}
         </div>
         {{ if .location }}
-        <div>{{ safeHTML .location }}</div>
+        <div><b>Location: </b>{{ safeHTML .location }}</div>
     </div>
     {{ end }}
  {{ end }}
@@ -57,7 +58,7 @@
     // Add a header for past events
     if (past.length > 0) {
         var header = document.createElement('h2');
-        header.style.marginTop = '4rem';
+        header.style.marginTop = '2rem';
         header.innerHTML = 'Past events';
         parent.appendChild(header);
     }
