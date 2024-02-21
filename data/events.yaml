@@ -67,7 +67,7 @@
 - title: Munich Database Meetup
   description: |-
     Bringing together database enthusiasts from industry and academia in munich.<br>
-    <b>Talks:</b><br>
+    <b>Talks:</b>
     <ul>
       <li><a href="https://cedardb.com/">CedarDB</a> by Philipp Fent: Dive into the world of <a href="https://umbra-db.com">Umbra</a> implementation and discover what makes CedarDB stand out.</li>
       <li><a href="https://www.jetbrains.com/fleet/">RhizomeDB</a> by Andrey Zaytsev: Learn about this innovative local-first CRDT-based framework from the brilliant minds at JetBrains.</li>
