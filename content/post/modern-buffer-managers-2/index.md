@@ -18,6 +18,9 @@ Haven't we already said that mmap is bad in the last part? Well yes but also no.
 
 Prof. Leis (TUM) introduced a new buffer manager called VMCache (["Virtual-Memory Assisted Buffer Management"](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)) at SIGMOD 2023, which relies on exactly those techniques. What you do is to just map your entire database to a large anonymous memory region and then manage eviction manually using madvise. The big benefit this has is that you have a normal buffer manager API again which just maps page ids to pointers while still getting the hardware acceleration of virtual memory. In this case, this happens through a single add instruction (super cheap) and a check in a separate state array (you could also implement it to be on the page itself) to see whether it is actually present or just pointing to the zero page. Since this state is the page latch at the same time, there is basically no overhead for this check over pure in-memory. Also, because the load of the page state has no data dependency on the the page itself, the CPU will most likely execute both in parallel therefore hiding the cache miss latency.
 
+![Illustration of page state array](vmcache.png)
+*Illustration of the page state array from Leis et al.: "Virtual-Memory Assisted Buffer Management"*
+
 This makes the in-memory case slightly slower than for pointer swizzling because you are doing a bit more work. This difference will usually not be significant. The benefits of using this strategy over pointer swizzling are that it is much easier to implement and has a lot fewer footguns. 
 
 The pseudocode for this is pretty simple:
