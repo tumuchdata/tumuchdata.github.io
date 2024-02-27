@@ -8,7 +8,7 @@ levels: ["intermediate"]
 tags: ["buffer-management", "in-memory", "storage"]
 ---
 
-In the [first]({{< ref "post/hdd-to-ram-to-ssd" >}}) and [second]({{< ref "post/modern-buffer-managers-1" >}}) part of this little two series about modern database storage we have already learned about the history of of our series about modern database storage we have already learned about the history of database storage technology and about pointer swizzling as a first modern buffer management technique. I have also described some of the drawbacks of pointer swizzling, mainly that it leaks into your entire system because you cannot have a nice clean buffer manager API with loose coupling that just dereferences page ids to pointers.
+In the [first]({{< ref "post/hdd-to-ram-to-ssd" >}}) and [second]({{< ref "post/modern-buffer-managers-1" >}}) part of this series about modern database storage we have already learned about the history of of our series about modern database storage we have already learned about the history of database storage technology and about pointer swizzling as a first modern buffer management technique. I have also described some of the drawbacks of pointer swizzling, mainly that it leaks into your entire system because you cannot have a nice clean buffer manager API with loose coupling that just dereferences page ids to pointers.
 
 In this part we will be presenting another and newer technique called VMCache and compare the approaches
 
