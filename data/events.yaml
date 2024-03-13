@@ -79,9 +79,12 @@
 
 - title: Munich Database Meetup
   description: |-
-    Munich Data.<br>
-    <b>Talk by Peter Boncz about <a href="https://motherduck.com/">MotherDuck</a>.</b>
-    <i>Further content to be announced</i>
+    Bringing together database enthusiasts from industry and academia in munich.<br>
+    <b>Talks:</b>
+    <ul>
+      <li><a href="https://motherduck.com/">MotherDuck</a> by Peter Boncz</li>
+      <li><i>Further content to be announced</i></li>
+    </ul>
   start: '2024-04-24T18:00:00'
   end: '2024-04-24T19:00:00'
   location: TUM Campus Garching TBA
