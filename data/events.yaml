@@ -77,11 +77,12 @@
   end: '2024-03-25T21:30:00'
   location: '<a href="https://www.codecentric.de/">codecentric AG</a> Office: August-Everding-Straße 20, 81671 München'
 
-- title: Paper Reading Group
+- title: Munich Database Meetup
   description: |-
-    Weekly Paper Reading Group.<br>
+    Munich Data.<br>
     <b>Talk by Peter Boncz about <a href="https://motherduck.com/">MotherDuck</a>.</b>
+    <i>Further content to be announced</i>
   start: '2024-04-24T18:00:00'
   end: '2024-04-24T19:00:00'
-  location: TUM Campus Garching
+  location: TUM Campus Garching TBA
 
