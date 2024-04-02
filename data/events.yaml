@@ -69,7 +69,7 @@
     Bringing together database enthusiasts from industry and academia in munich.<br>
     <b>Talks:</b>
     <ul>
-      <li><a href="https://cedardb.com/">CedarDB</a> by Philipp Fent: Dive into the world of <a href="https://umbra-db.com">Umbra</a> implementation and discover what makes CedarDB stand out.</li>
+      <li><a href="https://cedardb.com/">CedarDB</a> by Philipp Fent: Dive into the world of <a href="https://umbra-db.com">Umbra</a> implementation and discover what makes CedarDB stand out. (<a href="https://wwwbayer.informatik.tu-muenchen.de/people/sites/fent/papers/CedarDB%20@%20Munich%20Database%20Meetup.pdf">Slides</a>)</li>
       <li><a href="https://www.jetbrains.com/fleet/">RhizomeDB</a> by Andrey Zaytsev: Learn about this innovative local-first CRDT-based framework from the brilliant minds at JetBrains.</li>
     </ul>
     Get more information and register for the event <a href="https://www.meetup.com/de-DE/munich-database-meetup/events/299194097/">here</a>.
