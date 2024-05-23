@@ -120,3 +120,35 @@
   start: '2024-05-23T18:00:00'
   end: '2024-05-23T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
+
+- title: Paper Reading Group
+  description: >
+    Weekly Paper Reading Group.<br>
+    <b>Talk by Alice Rey about <a href="https://dl.gi.de/server/api/core/bitstreams/9c8435ee-d478-4b0e-9e3f-94f39a9e7090/content">Seamless Integration of Parquet Files into Data Processing</a>.</b>
+  start: '2024-06-06T18:00:00'
+  end: '2024-06-06T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
+
+- title: Industry Talk
+  description: >
+    Weekly Paper Reading Group.<br>
+    <b>Industry Talk by Yingjun Wu - the Founder of <a href="https://risingwave.com/">RisingWave</a></b>
+  start: '2024-06-13T18:00:00'
+  end: '2024-06-13T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
+
+- title: Paper Reading Group
+  description: >
+    Weekly Paper Reading Group.<br>
+    <b>Talk by Alice Rey.</b>
+  start: '2024-06-20T18:00:00'
+  end: '2024-06-20T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
+
+- title: Paper Reading Group
+  description: >
+    Weekly Paper Reading Group.<br>
+    <b>Talk by Dr. Lawrence Benson about <a href="https://ceur-ws.org/Vol-3462/ADMS5.pdf">Evaluating SIMD Compiler-Intrinsics for Database Systems</a>.</b>
+  start: '2024-06-27T18:00:00'
+  end: '2024-06-27T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>

@@ -11,3 +11,6 @@ hugo.darwin
 hugo.linux
 
 # Temporary lock file while building
+
+# Intellij
+.idea
