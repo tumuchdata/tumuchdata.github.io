@@ -1,7 +1,11 @@
 <div class="events-list">
 {{ range $.Site.Data.events }}
-    <div class="event-block" style="margin-bottom: 2rem;" data-event-date="{{ .start }}">
-        <h3 style="margin-bottom: 5px;" >{{ .title }}</h3>
+    <div class="event-block" style="margin-bottom: 2rem;"
+         data-event-date="{{ .start }}"
+         id="{{ time.Format "2006-01-02" (time.AsTime .start)}}_{{ hash.FNV32a .title | printf "%x" }}">
+        <h3 style="margin-bottom: 5px;">
+            {{ .title }}
+        </h3>
         <div>{{ safeHTML .description }}</div>
         <div style="margin-top: 0.6rem">
         <b>Time: </b>
