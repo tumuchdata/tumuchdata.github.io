@@ -153,7 +153,9 @@
 - title: Paper Reading Group
   description: >
     Weekly Paper Reading Group.<br>
-    <b>Talk by Bo-Hyun Lee.</b>
+    <b>Talk by Bo-Hyun Lee about Optimizing the database system for flash SSDs 
+    (<a href="https://ieeexplore.ieee.org/abstract/document/10102447">B-Tree</a> and
+    <a href="https://dl.acm.org/doi/abs/10.14778/3598581.3598605">LRU-C</a>).</b>
   start: '2024-06-20T18:00:00'
   end: '2024-06-20T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
@@ -164,4 +166,28 @@
     <b>Talk by Dr. Lawrence Benson about <a href="https://ceur-ws.org/Vol-3462/ADMS5.pdf">Evaluating SIMD Compiler-Intrinsics for Database Systems</a>.</b>
   start: '2024-06-27T18:00:00'
   end: '2024-06-27T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
+
+- title: Paper Reading Group
+  description: >
+    Weekly Paper Reading Group.<br>
+    <b>Talk by Altan Birler about <a href="https://db.in.tum.de/~birler/papers/hashtable.pdf">Simple, Efficient, and Robust Hash Tables for Join Processing</a>.</b>
+  start: '2024-07-04T18:00:00'
+  end: '2024-07-04T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
+
+- title: Paper Reading Group
+  description: >
+    Weekly Paper Reading Group.<br>
+    <b>Talk by Tobias Schmidt about <a href="https://assets.amazon.science/11/0e/3a9288554485b616fa0c99fe4067/predicate-caching-query-driven-secondary-indexing-for-cloud-data-warehouses.pdf">Predicate Caching: Query-Driven Secondary Indexing for Cloud Data Warehouses</a>.</b>
+  start: '2024-07-11T18:00:00'
+  end: '2024-07-11T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
+
+- title: Paper Reading Group
+  description: >
+    Weekly Paper Reading Group.<br>
+    <b>Talk by Ferdinand Gruber.</b>
+  start: '2024-07-18T18:00:00'
+  end: '2024-07-18T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
