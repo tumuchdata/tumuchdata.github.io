@@ -1,0 +1,66 @@
+@import "../utils/variables";
+
+.postWrapper {
+    text-align: left;
+}
+
+.postMetadata {
+    font-family: $fontCode;
+    display: block;
+    background: $backgroundDarker;
+    padding: 10px;
+}
+
+dt, dd {
+    line-height: 1.5;
+}
+
+dl {
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+
+dt {
+    grid-column-start: 1;
+}
+
+dd {
+    grid-column-start: 2;
+}
+
+dt::after {
+    content: ":";
+}
+
+.teamContainer {
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+    gap: 40px; 
+    row-gap: 40px;
+    margin-top: 20px;
+}
+
+.teamMember {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.teamMemberImage {
+    max-width: 300px; 
+    border-radius: 100%;
+    margin-bottom: 1em;
+}
+
+.teamMemberRoleSpecial {
+    font-size: 1.3em;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 0.2em;
+}
+
+.teamMemberRole {
+    font-size: 1em;
+    font-weight: bold;
+    display: inline-block;
+}
