@@ -7,7 +7,7 @@ showMetadata = false
 
 # Donate
 
-If you are an idividual or a company and you would like to support us financially, you can always do so by donating to the following bank account:
+If you are an individual or a company and you would like to support us financially, you can always do so by donating to the following bank account:
 
 ```
 Bank: VR-Bank Altenburger Land / Deutsche Skatbank
