@@ -2,6 +2,7 @@
 date: "2024-06-18"
 title: "Self-healing for cloud-native high-performance query processing Pt. 1: Time model"
 description: ""
+thumbnail: "thumbnail.png"
 authors: ["Michał Szczepaniak"]
 levels: ["intermediate", "expert"]
 tags: ["cloud", "self-healing", "query-processing", "failure"]
@@ -200,3 +201,5 @@ The failure can occur at any moment of the processing, and because of that, we h
 # Conclusions
 
 In this part, we defined the time models for both self-healing methods and analyzed the impact of some parameters. As we can observe, the checkpointing is very promising in the case of failure. It can lead to significantly shorter processing for large queries with small output. However, whether a gain occurs or not depends on many different parameters. In the next part, we will compare both methods from a cost perspective, as the cost is one of the most critical factors in the cloud.
+
+The next part is already available: [Part 2. Cost Model]({{< ref "post/self-healing-2" >}})
