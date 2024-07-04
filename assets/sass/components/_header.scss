@@ -10,23 +10,31 @@
   width: 95%;
 }
 
+.title {
+  min-width: 220px;
+}
+
 .headerWrapper {
   overflow: auto;
   box-sizing: border-box;
   background-color: $backgroundDarker;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   flex-shrink: 0;
 }
 
 .headerLinks {
+  flex-grow: 1;
+  padding-left: 15%;
   ul {
+    display:block;
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    justify-content: space-between;
     li {
       display: inline;
-      margin: 5px;
       a {
         color: $white;
         text-decoration: none;
@@ -92,7 +100,7 @@
   top: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1400px) {
   .headerLinks {
     width: 100%;
     height: 100%;
