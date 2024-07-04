@@ -17,9 +17,9 @@ The chairs you usually want to be looking at for database specific courses are:
 
 # Foundational Courses
 
-If you just want to get more of an overview over different topics database systems, also on the application of them, after taking GDB (or a similar introductory database lecture from another university) you should take **Implementation of Database Systems** (Einsatz und Realisierung von Datenbanksystemen) course which is kind of a continuation of GDB. But be aware that its taught in German.
+If you just want to get more of an overview over different topics in database systems, also on the application of them, after taking GDB (or a similar introductory database lecture from another university) you should take **Implementation of Database Systems** (Einsatz und Realisierung von Datenbanksystemen) which is kind of a continuation of GDB. But be aware that its taught in German.
 
-For getting into the internals on the other hand, we generally recommend to take the course **Database Systems on Modern CPU Architectures** (Datenbanksysteme und moderne CPU-Architekturen) first if possible. The course is taught in the summer semester every year. That doesn't mean that you should be holding back on starting your database internals journey in the winter semester. Almost every database related course can be taken with little prior skills or knowledge other than GDB. You can also take other courses in parallel in the summer semester.
+For getting into the internals, we generally recommend to take the course **Database Systems on Modern CPU Architectures** (Datenbanksysteme und moderne CPU-Architekturen) first if possible. The course is taught in the summer semester every year. That doesn't mean that you should be holding back on starting your database internals journey in the winter semester. Almost every database related course can be taken with little prior skills or knowledge other than GDB. You can also take other database courses in parallel in the summer semester.
 
 # Specialized Courses
 
