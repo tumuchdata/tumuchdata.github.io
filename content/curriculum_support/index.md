@@ -33,7 +33,7 @@ To help you find interesting lectures for your personal interests, we've grouped
 
 ## Seminars and Practicals
 
-Here's a visualization of a small selection of courses you can take and the order we suggest you take them in (again, it's also possible to not follow this order). Note that, since seminars and practicals are usually limited to a small number of students, there's many more than the ones shown here that you can choose from. The offering usually changes from semester to semester. Just because a course is not shown on this page, doesn't mean we recommend taking it any less than the ones shown here. 
+Here's a visualization of a small selection of courses you can take and the order we suggest you take them in (again, it's also possible to not follow this order). Note that, since seminars and practicals are usually limited to a small number of students, there's many more than the ones shown here that you can choose from. The offering usually changes from semester to semester. Just because a course is not shown on this page, doesn't mean we recommend taking it any less than the ones shown here. Be aware that most practicals and also many lecture-exercises will be using C++ so having some experience with it is recommended.
 
 ![Seminars and Practicals](practicals_seminars.svg)
 
