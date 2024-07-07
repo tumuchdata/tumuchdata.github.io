@@ -5,7 +5,7 @@ weight = 25
 showMetadata = false
 +++
 
-TUM is the perfect place to become a database systems expert. There's no other university where you can study different aspects of databases in such depth. 
+TUM is the perfect place to become a database systems expert. Our university offers the largest selection of courses covering all the different aspects of databases. Whether you're more of a low-level C++ hacker or more into theoretically proving the correctness of locking schemes for transaction isolation, there's something for everyone.
 
 # Chairs
 
