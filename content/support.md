@@ -7,7 +7,7 @@ showMetadata = false
 
 # JOIN: YOU ⋈ TUMuchData e.V.
 
-You can JOIN our club (TUMuchData e.V.) by filling out the following form (German) and handing it to one of our management team members. Note that forms are only accepted in person and not via email or any other digital means.
+You can JOIN our club (TUMuchData e.V.) to support us by filling out the following form (German) and handing it to one of our management team members. Note that forms are only accepted in person and not via email or any other digital means. You can also attend our [events]({{< ref "/events" >}}) without being a member.
 
 [Beitrittserklärung (JOIN form)](/documents/beitrittserklärung_2024-03-12.pdf)
 
