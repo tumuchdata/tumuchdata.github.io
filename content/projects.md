@@ -1,7 +1,5 @@
 +++
-menu = 'header'
 title = 'student_projects'
-weight = 30
 showMetadata = false
 +++
 

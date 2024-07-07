@@ -100,8 +100,9 @@
   top: 0;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
   .headerLinks {
+    padding-left: 0;
     width: 100%;
     height: 100%;
     position: fixed;
