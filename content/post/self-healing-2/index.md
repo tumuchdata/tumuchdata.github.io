@@ -98,3 +98,5 @@ From the perspective of different input sizes and constant output/input factor s
 # Conclusions
 
 In this part, we focused on creating cost models for self-healing methods. Each parameter defined in the time model affected multiple factors of cost. For this reason, we analyzed the impact of different values of some parameters on the final cost. In many cases, even if the checkpointing is efficient from a time perspective, it is not beneficial from a cost perspective. However, there are queries for which checkpointing provides profits in both aspects. Thanks to that, we can say that checkpoints may be helpful if used carefully. In the next part, we will go into detail about the usefulness of checkpointing, in which we will use models to create systems with different failure probabilities.
+
+The next part is already available: [Part 2. System Model]({{< ref "post/self-healing-3" >}})
