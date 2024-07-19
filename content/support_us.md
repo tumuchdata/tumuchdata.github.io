@@ -31,7 +31,7 @@ If you are an individual or a company and you would like to support us financial
 ```
 Bank: VR-Bank Altenburger Land / Deutsche Skatbank
 Account Holder: TUMuchData e.V.
-IBAN: DE68 8306 54080005416175
+IBAN: DE68 8306 5408 0005 4161 75
 BIC: GENO DEF1 SLR
 ```
 
