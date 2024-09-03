@@ -184,6 +184,18 @@
   end: '2024-07-11T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
+- title: Munich Database Meetup
+  description: |-
+    Bringing together database enthusiasts from industry and academia in Munich.<br>
+    <b>Talks:</b>
+    <ul>
+      <li> <a href="https://druid.apache.org">Apache Druid</a> by Hellmar Becker: Apache Druid - A Fast, Distributed Real-time Analytics Database.</li>
+      <li> <a href="https://clickhouse.com">ClickHouse</a> by Michael Lex: Serverless ClickHouse Internals: Blazing Fast, Scalable OLAP Database. </li>
+    </ul>
+    Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/302956403">here</a>.
+  start: '2024-09-18T18:30:00'
+  end: '2024-09-18T21:30:00'
+  location: 'Celonis HQ: Theresienstrasse 6, München, BY'
   
 - title: TUMuchData is coming back with more events in winter semester
   description: Thank you all for your attendance at our events this semester. It was great to meet all of you.
