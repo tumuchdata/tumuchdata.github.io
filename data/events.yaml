@@ -204,4 +204,19 @@
   start: '2024-10-17T18:00:00'
   end: '2024-10-17T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+  
+- title: Munich Database Meetup
+  description: |-
+    Bringing together database enthusiasts from industry and academia in Munich.<br/>
+    Topic: "Consistency Across Systems and Architecting for Hyperscale" <br/>
+    <b>Talks:</b>
+    <ul>
+      <li> Andrei Shakirin: Atomicity and Consistency Across Databases and Messaging Systems.</li>
+      <li> <a href="https://ocient.com/">Ocient</a> by Stefan Renner: Architecting for Hyperscale - How Ocient Optimizes Performance, Cost, and Energy Efficiency for Massive Data Workloads. </li>
+    </ul>
+    Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/302956403">here</a>.
+  start: '2024-10-24T18:30:00'
+  end: '2024-10-24T21:30:00'
+  location: 'Xempus AG: Arnulfstraße 126, München, BY'
   
