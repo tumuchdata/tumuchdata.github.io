@@ -14,7 +14,7 @@ We organize various events such as meetups, reading groups, industry talks, and 
 
 # Team 
 
-The management team is responsible for the overall organization and coordination of the club's activities. We are currently 9 core management team members.
+The management team is responsible for the overall organization and coordination of the club's activities. We are currently 12 core management team members.
 
 ![Management Team](team/images/ws2425/group.jpg)
 
