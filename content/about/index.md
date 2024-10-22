@@ -28,14 +28,13 @@ Here's our current management members:
 <h2 id="georg">Georg Kreuzmayr</h2>
 <img class="teamMemberImage" src="team/images/georg-square.jpg" alt="Georg Kreuzmayr"  />
 <span class="teamMemberRoleSpecial">President</span>
-<span class="teamMemberRole">Meetups</span>
 </div>
 
 <div class="teamMember">
 <h2 id="marlene">Marlene Bargou</h2>
 <img src="team/images/marlene-square.jpg" alt="Marlene Bargou" class="teamMemberImage" />
 <span class="teamMemberRoleSpecial">Vice President</span>
-<span class="teamMemberRole">Reading Group</span>
+<span class="teamMemberRole">Sponsor Relations / Conference Trips</span>
 </div>
 
 <div class="teamMember">
@@ -45,38 +44,56 @@ Here's our current management members:
 </div>
 
 <div class="teamMember">
-<h2 id="pascal">Christoph Rotte</h2>
-<img src="team/images/christoph-square.jpg" alt="Christoph Rotte" class="teamMemberImage" />
+<h2 id="pascal">Nicolas Schmitt</h2>
+<img src="team/images/nicolas-square.jpg" alt="Nicolas Schmitt" class="teamMemberImage" />
 <span class="teamMemberRole">Social Events</span>
 </div>
 
 <div class="teamMember">
 <h2 id="michael">Michael Zinsmeister</h2>
 <img src="team/images/michael-square.jpg" alt="Michael Zinsmeister" class="teamMemberImage" />
-<span class="teamMemberRole">IT Infrastructure / Blog Posts</span>
+<span class="teamMemberRole">IT Infrastructure</span>
 </div>
 
 <div class="teamMember">
-<h2 id="michal">Michal Szczepaniak</h2>
-<img src="team/images/michal-square.jpg" alt="Michal Szczepaniak" class="teamMemberImage" />
-<span class="teamMemberRole">IT Infrastructure / Blog Posts</span>
-</div>
-
-<div class="teamMember">
-<h2 id="aliya">Aliya Bannayeva</h2>
-<img src="team/images/aliya-square.jpg" alt="Aliya Bannayeva" class="teamMemberImage" />
-<span class="teamMemberRole">Outside Communication / Social Media</span>
+<h2 id="michal">Sebastian Kosak</h2>
+<img src="team/images/sebastian-square.jpg" alt="Sebastian Kosak" class="teamMemberImage" />
+<span class="teamMemberRole">Meetups</span>
 </div>
 
 <div class="teamMember">
 <h2 id="miguel">Miguel Marcano</h2>
 <img src="team/images/miguel-square.jpg" alt="Miguel Marcano" class="teamMemberImage" />
-<span class="teamMemberRole">Outside Communication / Social Media</span>
+<span class="teamMemberRole">Communication</span>
+</div>
+
+<div class="teamMember">
+<h2 id="miguel">Ludovico Capiaghi</h2>
+<img src="team/images/ludovico-square.jpg" alt="Miguel Marcano" class="teamMemberImage" />
+<span class="teamMemberRole">Communication</span>
+</div>
+
+<div class="teamMember">
+<h2 id="aliya">Aliya Bannayeva</h2>
+<img src="team/images/aliya-square.jpg" alt="Aliya Bannayeva" class="teamMemberImage" />
+<span class="teamMemberRole">Paper Reading Circle</span>
 </div>
 
 <div class="teamMember">
 <h2 id="miguel">Dewangga Winasforcepta</h2>
 <img src="team/images/dewangga-square.jpg" alt="Dewangga Winasforcepta" class="teamMemberImage" />
+<span class="teamMemberRole">Coding Challenges</span>
+</div>
+
+<div class="teamMember">
+<h2 id="miguel">Klara Cimbalnik</h2>
+<img src="team/images/klara-square.jpg" alt="Klara Cimbalnik" class="teamMemberImage" />
+<span class="teamMemberRole">Research Talks / Sponsor Relations</span>
+</div>
+
+<div class="teamMember">
+<h2 id="miguel">Lukas Neef</h2>
+<img src="team/images/lukas-square.jpg" alt="Lukas Neef" class="teamMemberImage" />
 <span class="teamMemberRole">Finance</span>
 </div>
 
