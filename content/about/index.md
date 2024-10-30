@@ -99,6 +99,7 @@ Here's our current management members:
 
 </div>
 
+Pictures by [Janez Rotman](https://www.linkedin.com/in/janez-rotman-35a140231/)
 
 
 # Contact us 
