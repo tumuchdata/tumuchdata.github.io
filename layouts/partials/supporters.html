@@ -1,0 +1,13 @@
+<div class="supporters">
+        {{ range sort .Site.Params.supporters "key"}}
+        <div class="supporter">
+            {{ if isset . "logo" }}
+                <a href="{{ .url | safeURL }}" aria-hidden="true" title="{{ .name }}" {{ if .rel }} rel="{{ .rel }}"{{ end }}>
+                    <img src="{{ .logo | absURL }}" alt="{{ .name }}" />
+                </a>
+            {{ else }}
+                <a href="{{ .url | safeURL }}" {{ if .rel }} rel="{{ .rel }}"{{ end }}>{{ .name }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+</div>

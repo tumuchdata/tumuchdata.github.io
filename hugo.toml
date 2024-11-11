@@ -30,6 +30,18 @@ name = "email"
 icon="fa-solid fa-envelope"
 url = "mailto:contact@tumuchdata.club"
 
+[[params.supporters]]
+key = 0
+name = "Snowflake"
+url = "https://www.snowflake.com/"
+logo = "images/supporters/Snowflake_Logo.svg"
+
+[[params.supporters]]
+key = 1
+name = "Optiver"
+url = "https://www.optiver.com/"
+logo = "images/supporters/Optiver_Logo.png"
+
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
 

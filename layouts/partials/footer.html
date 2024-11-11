@@ -1,22 +1,31 @@
 <footer class="footer">
-    {{ with .Site.Params.footerHtml }}
-        <span>{{ . | safeHTML }}</span>
-    {{ else }}
-        <span>
-            <nav class="footerLinks">
-                {{ if isset .Site.Params "social" }}
-                    {{ partial "social.html" . }}
-                {{ end }}
-                <ul>
-                    {{ range .Site.Menus.footer }}
-                    <li>
-                        <a href="{{ .URL | absURL }}" title="{{ .Title }}" >
-                            ~/{{- .Name -}}
-                        </a>
-                    </li>
-                    {{ end }}
-                </ul>
-            </nav>
+    <div>
+        {{ if isset .Site.Params "supporters" }}
+            <p>supported by:</p>
+            {{ partial "supporters.html" . }}
+        {{ end }}
         </span>
-    {{ end }}
+    </div>    
+    <div>
+        {{ with .Site.Params.footerHtml }}
+            <span>{{ . | safeHTML }}</span>
+        {{ else }}
+            <span>
+                <nav class="footerLinks">
+                    {{ if isset .Site.Params "social" }}
+                        {{ partial "social.html" . }}
+                    {{ end }}
+                    <ul>
+                        {{ range .Site.Menus.footer }}
+                        <li>
+                            <a href="{{ .URL | absURL }}" title="{{ .Title }}" >
+                                ~/{{- .Name -}}
+                            </a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </nav>
+            </span>
+        {{ end }}
+    </div>
 </footer>
