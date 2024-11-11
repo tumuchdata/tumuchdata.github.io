@@ -219,4 +219,21 @@
   start: '2024-10-24T18:30:00'
   end: '2024-10-24T21:30:00'
   location: 'Xempus AG: Arnulfstraße 126, München, BY'
-  
+
+- title: Research Talk
+  description: >
+    <b>Talk by Michael Jungmair about <a href="https://dl.acm.org/doi/pdf/10.1145/3689737">HiPy: Extracting High-Level Semantics from Python Code for Data Processing</a>.</b>
+  start: '2024-11-14T18:00:00'
+  end: '2024-11-14T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+- title: Industry Talk
+  description: >
+    <b>Low Latency C++ Workshop by Simon Staal from <a href="https://optiver.com">Optiver</a>.</b><br/>
+     Profiling, micro-benchmarking, and C++ optimization techniques, diving into compiler-generated assembly to reveal how small code changes can boost efficiency.⁣⁣⁣⁣⁣⁣<br/>
+     Please note this workshop is suited for those with soem prior C++ knowledge.<br/>
+     <br/>
+     <b>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEMgxh64SF0vQQateMtXK4ikzjWJMli3e5RQGNB17GoYTKHQ/viewform?usp=sf_link⁣⁣">here</a>.</b>
+  start: '2024-11-21T18:00:00'
+  end: '2024-11-21T20:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
