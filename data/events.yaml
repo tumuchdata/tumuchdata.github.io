@@ -231,7 +231,7 @@
   description: >
     <b>Low Latency C++ Workshop by Simon Staal from <a href="https://optiver.com">Optiver</a>.</b><br/>
      Profiling, micro-benchmarking, and C++ optimization techniques, diving into compiler-generated assembly to reveal how small code changes can boost efficiency.⁣⁣⁣⁣⁣⁣<br/>
-     Please note this workshop is suited for those with soem prior C++ knowledge.<br/>
+     Please note this workshop is suited for those with some prior C++ knowledge.<br/>
      <br/>
      <b>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEMgxh64SF0vQQateMtXK4ikzjWJMli3e5RQGNB17GoYTKHQ/viewform?usp=sf_link⁣⁣">here</a>.</b>
   start: '2024-11-21T18:00:00'
