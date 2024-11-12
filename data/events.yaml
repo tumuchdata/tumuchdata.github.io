@@ -226,6 +226,13 @@
   end: '2024-11-07T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
+- title: Paper Reading Circle
+  description: >
+    <b>Moderated discussion about <a href="https://www.cs.albany.edu/~jhh/courses/readings/kemper.icde11.memory.pdf">HyPer: A Hybrid OLTP&OLAP Main Memory Database System Based on Virtual Memory Snapshots</a>.</b>
+  start: '2024-11-13T18:00:00'
+  end: '2024-11-13T19:00:00'
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
 - title: Research Talk
   description: >
     <b>Talk by Michael Jungmair about <a href="https://dl.acm.org/doi/pdf/10.1145/3689737">HiPy: Extracting High-Level Semantics from Python Code for Data Processing</a>.</b>
