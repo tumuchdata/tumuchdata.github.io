@@ -1,0 +1,43 @@
+/* Customizable snowflake styling */
+$snowflake-color: #fff;
+$snowflake-font-size: 1em;
+$snowflake-font-family: Arial, sans-serif;
+$snowflake-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+$snowflake-animation-duration-fall: 10s;
+$snowflake-animation-duration-shake: 3s;
+
+.snowflake {
+  color: $snowflake-color;
+  font-size: $snowflake-font-size;
+  font-family: $snowflake-font-family;
+  text-shadow: $snowflake-shadow;
+  position: fixed;
+  top: -10%;
+  z-index: 9999;
+  user-select: none;
+  cursor: default;
+
+  animation-name: snowflakes-fall, snowflakes-shake;
+  animation-duration: $snowflake-animation-duration-fall, $snowflake-animation-duration-shake;
+  animation-timing-function: linear, ease-in-out;
+  animation-iteration-count: infinite, infinite;
+  animation-play-state: running, running;
+}
+
+@keyframes snowflakes-fall {
+  0% { top: -10%; }
+  100% { top: 100%; }
+}
+
+@keyframes snowflakes-shake {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(80px); }
+}
+
+/* Generate multiple snowflakes with varying left positions and delays */
+@for $i from 0 through 11 {
+  .snowflake:nth-of-type(#{$i + 1}) {
+    left: (10% * $i);
+    animation-delay: #{random(9)}s, #{random(4)}s;
+  }
+}

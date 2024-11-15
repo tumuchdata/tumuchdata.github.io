@@ -11,6 +11,7 @@ user = "db"
 title = "TUMuchData"
 subtitle = "The Munich Database Club"
 showMetadata = false
+snowflakes = true
 
 [[params.social]]
 key = 0
