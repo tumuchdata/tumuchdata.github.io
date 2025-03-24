@@ -286,3 +286,17 @@
   start: '2025-01-30T18:00:00'
   end: '2025-01-30T19:00:00'
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+- title: Munich Database Meetup
+  description: |-
+    Bringing together database enthusiasts from industry and academia in Munich.<br/>
+    Topic: "TUM Database Spinoffs" <br/>
+    <b>Talks:</b>
+    <ul>
+      <li> Jan Finis, <a href="https://tableau.github.io/hyper-db/">Salesforce</a>: Insights into the challenges, optimizations, and technical marvels that keep Hyper at the forefront of analytical database performance.</li>
+      <li> Philipp Fent, <a href="cedardb.com">CedarDB</a>: B-Trees in CedarDB. </li>
+    </ul>
+    Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/306097270/">here</a>.
+  start: '2025-02-27T18:30:00'
+  end: '2025-02-27T21:30:00'
+  location: 'TNG Technology Consulting, Arabellastrasse 4a, München, BY"
