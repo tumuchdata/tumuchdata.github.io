@@ -3,8 +3,8 @@
   description: |-
     We will be collecting ideas for the reading group, the club itself and desired topics/speakers for talks.<br>
     <b>Talk by Philipp Fent about <a href="https://umbra-db.com">Umbra</a>.</b>
-  start: '2023-11-23T18:00:00'
-  end: '2023-11-23T19:00:00'
+  start: "2023-11-23T18:00:00"
+  end: "2023-11-23T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
   image: /images/events/Umbra-talk.jpeg
 
@@ -12,56 +12,56 @@
   description: |-
     Weekly Paper Reading Group.<br>
     <b>Talk by Dominik Durner about <a href="https://github.com/durner/AnyBlob">AnyBlob</a>.</b>
-  start: '2023-11-30T18:00:00'
-  end: '2023-11-30T19:00:00'
+  start: "2023-11-30T18:00:00"
+  end: "2023-11-30T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Paper Reading Group
   description: |-
     Reading Group Christmas Party (featuring Glühwein and Cookies).<br>
     <b>Talk by Michael Jungmair about <a href="https://www.lingo-db.com/">LingoDB</a>.</b>
-  start: '2023-12-14T18:00:00'
-  end: '2023-12-14T19:00:00'
+  start: "2023-12-14T18:00:00"
+  end: "2023-12-14T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Paper Reading Group
   description: |-
     Weekly Paper Reading Group.<br>
     <b>Talk by Alexander Taepper about <a href="https://github.com/GenSpectrum/LAPIS-SILO">Index Structures for Querying Large Genomic Data</a>.</b>
-  start: '2024-01-11T18:00:00'
-  end: '2024-01-11T19:00:00'
+  start: "2024-01-11T18:00:00"
+  end: "2024-01-11T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Paper Reading Group
   description: |-
     Weekly Paper Reading Group.<br>
     <b>Industry Talk by Benjamin Wagner from <a href="https://www.firebolt.io/">Firebolt</a>.</b>
-  start: '2024-01-18T18:00:00'
-  end: '2024-01-18T19:00:00'
+  start: "2024-01-18T18:00:00"
+  end: "2024-01-18T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Paper Reading Group
   description: |-
     Weekly Paper Reading Group.<br>
     <b>Talk by Maximilian Kuschewski about <a href="https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf">BtrBlocks</a>.</b>
-  start: '2024-01-25T18:00:00'
-  end: '2024-01-25T19:00:00'
+  start: "2024-01-25T18:00:00"
+  end: "2024-01-25T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Paper Reading Group
   description: |-
     Weekly Paper Reading Group.<br>
     <b>Talk by Tobias Ziegler (TU Darmstadt) about <a href="https://www.informatik.tu-darmstadt.de/media/systems/pdf_publications/ScaleStore_preprint.pdf">ScaleStore</a>.</b>
-  start: '2024-02-01T18:00:00'
-  end: '2024-02-01T19:00:00'
+  start: "2024-02-01T18:00:00"
+  end: "2024-02-01T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Paper Reading Group
   description: |-
     Weekly Paper Reading Group.<br>
     <b>Industry Talk by Michael Haubenschild from the <a href="https://tableau.github.io/hyper-db/">Hyper Team at Salesforce</a>.</b>
-  start: '2024-02-08T18:00:00'
-  end: '2024-02-08T19:00:00'
+  start: "2024-02-08T18:00:00"
+  end: "2024-02-08T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Munich Database Meetup
@@ -73,23 +73,23 @@
       <li><a href="https://www.jetbrains.com/fleet/">RhizomeDB</a> by Andrey Zaytsev: Learn about this innovative local-first CRDT-based framework from the brilliant minds at JetBrains.</li>
     </ul>
     Get more information and register for the event <a href="https://www.meetup.com/de-DE/munich-database-meetup/events/299194097/">here</a>.
-  start: '2024-03-21T18:30:00'
-  end: '2024-03-21T21:30:00'
+  start: "2024-03-21T18:30:00"
+  end: "2024-03-21T21:30:00"
   location: '<a href="https://www.codecentric.de/">codecentric AG</a> Office: August-Everding-Straße 20, 81671 München'
 
 - title: Industry Talk
   description: >
     Industry talk by Peter Boncz about <a href="https://motherduck.com/">MotherDuck</a> (<a href="https://bit.ly/motherduck-lecture-2024">Slides</a>).
-  start: '2024-04-24T18:00:00'
-  end: '2024-04-24T19:00:00'
+  start: "2024-04-24T18:00:00"
+  end: "2024-04-24T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, <a href="https://nav.tum.de/room/5604.EG.011">MI Hörsaal 2</a>
 
 - title: Paper Reading Group
   description: >
     Weekly Paper Reading Group.<br>
     <b>Paper Reading group by Prof. Dr. Viktor Leis: <a href="https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/cumulus.pdf">"Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware"</a>.</b>
-  start: '2024-05-02T18:00:00'
-  end: '2024-05-02T19:00:00'
+  start: "2024-05-02T18:00:00"
+  end: "2024-05-02T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Munich Database Meetup
@@ -101,32 +101,32 @@
       <li><a href="https://pinot.apache.org/">Apache Pinot™</a> by Viktor Gamov: Pinot, Y U So Fast?</li>
     </ul>
     Get more information and register for the event <a href="https://www.meetup.com/de-DE/munich-database-meetup/events/299905277/">here</a>.
-  start: '2024-05-15T18:30:00'
-  end: '2024-05-15T21:30:00'
-  location: 'Google Munich - Safety Engineering Center: Erika-Mann-Straße 33, München, BY'
+  start: "2024-05-15T18:30:00"
+  end: "2024-05-15T21:30:00"
+  location: "Google Munich - Safety Engineering Center: Erika-Mann-Straße 33, München, BY"
 
 - title: Paper Reading Group
   description: >
     Weekly Paper Reading Group.<br>
     <b>Paper Reading group by Prof. Dr. Andreas Kipf (UTN).</b>
-  start: '2024-05-16T18:00:00'
-  end: '2024-05-16T19:00:00'
+  start: "2024-05-16T18:00:00"
+  end: "2024-05-16T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Industry Talk
   description: >
     Weekly Paper Reading Group.<br>
     <b>Paper Reading group by Dr. Philipp Unterbrunner about <a href="https://www.observeinc.com">Observe Inc.</a>.</b>
-  start: '2024-05-23T18:00:00'
-  end: '2024-05-23T19:00:00'
+  start: "2024-05-23T18:00:00"
+  end: "2024-05-23T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Paper Reading Group
   description: >
     Weekly Paper Reading Group.<br>
     <b>Talk by Alice Rey about <a href="https://dl.gi.de/server/api/core/bitstreams/9c8435ee-d478-4b0e-9e3f-94f39a9e7090/content">Seamless Integration of Parquet Files into Data Processing</a>.</b>
-  start: '2024-06-06T18:00:00'
-  end: '2024-06-06T19:00:00'
+  start: "2024-06-06T18:00:00"
+  end: "2024-06-06T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Munich Database Meetup
@@ -138,16 +138,16 @@
       <li> <a href="https://www.jetbrains.com/datagrip/">DataGrip</a> by Maksim Sobolevskiy: Learn how to effectively execute SQL queries and work with data in DataGrip. </li>
     </ul>
     Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/301157998/">here</a>.
-  start: '2024-06-11T18:30:00'
-  end: '2024-06-11T21:30:00'
-  location: 'JetBrains Event Space: Christoph-Rapparini-Bogen 23, München, BY'
+  start: "2024-06-11T18:30:00"
+  end: "2024-06-11T21:30:00"
+  location: "JetBrains Event Space: Christoph-Rapparini-Bogen 23, München, BY"
 
 - title: Industry Talk
   description: >
     Weekly Paper Reading Group.<br>
     <b>Industry Talk by Yingjun Wu - the Founder of <a href="https://risingwave.com/">RisingWave</a></b>
-  start: '2024-06-13T18:00:00'
-  end: '2024-06-13T19:00:00'
+  start: "2024-06-13T18:00:00"
+  end: "2024-06-13T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Paper Reading Group
@@ -156,32 +156,32 @@
     <b>Talk by Bo-Hyun Lee about Optimizing the database system for flash SSDs 
     (<a href="https://ieeexplore.ieee.org/abstract/document/10102447">B-Tree</a> and
     <a href="https://dl.acm.org/doi/abs/10.14778/3598581.3598605">LRU-C</a>).</b>
-  start: '2024-06-20T18:00:00'
-  end: '2024-06-20T19:00:00'
+  start: "2024-06-20T18:00:00"
+  end: "2024-06-20T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Paper Reading Group
   description: >
     Weekly Paper Reading Group.<br>
     <b>Talk by Dr. Lawrence Benson about <a href="https://ceur-ws.org/Vol-3462/ADMS5.pdf">Evaluating SIMD Compiler-Intrinsics for Database Systems</a>.</b>
-  start: '2024-06-27T18:00:00'
-  end: '2024-06-27T19:00:00'
+  start: "2024-06-27T18:00:00"
+  end: "2024-06-27T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Paper Reading Group
   description: >
     Weekly Paper Reading Group.<br>
     <b>Talk by Altan Birler about <a href="https://db.in.tum.de/~birler/papers/hashtable.pdf">Simple, Efficient, and Robust Hash Tables for Join Processing</a>.</b>
-  start: '2024-07-04T18:00:00'
-  end: '2024-07-04T19:00:00'
+  start: "2024-07-04T18:00:00"
+  end: "2024-07-04T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Paper Reading Group
   description: >
     Weekly Paper Reading Group.<br>
     <b>Talk by Tobias Schmidt about <a href="https://assets.amazon.science/11/0e/3a9288554485b616fa0c99fe4067/predicate-caching-query-driven-secondary-indexing-for-cloud-data-warehouses.pdf">Predicate Caching: Query-Driven Secondary Indexing for Cloud Data Warehouses</a>.</b>
-  start: '2024-07-11T18:00:00'
-  end: '2024-07-11T19:00:00'
+  start: "2024-07-11T18:00:00"
+  end: "2024-07-11T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.023">02.09.023</a>
 
 - title: Munich Database Meetup
@@ -193,16 +193,16 @@
       <li> <a href="https://clickhouse.com">ClickHouse</a> by Michael Lex: Serverless ClickHouse Internals: Blazing Fast, Scalable OLAP Database. </li>
     </ul>
     Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/302956403">here</a>.
-  start: '2024-09-18T18:30:00'
-  end: '2024-09-18T21:30:00'
-  location: 'Celonis HQ: Theresienstrasse 6, München, BY'
-  
+  start: "2024-09-18T18:30:00"
+  end: "2024-09-18T21:30:00"
+  location: "Celonis HQ: Theresienstrasse 6, München, BY"
+
 - title: Industry Talk
   description: >
     <b>Talk by Dr. Florian Funke about <a href="https://www.snowflake.com">Snowflake</a>.</b> <br/> 
     "Inside the Cloud Data Warehouse: A journey beneath the surface of Snowflake's Cloud Data Warehouse"
-  start: '2024-10-17T18:00:00'
-  end: '2024-10-17T19:00:00'
+  start: "2024-10-17T18:00:00"
+  end: "2024-10-17T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Munich Database Meetup
@@ -215,29 +215,29 @@
       <li> <a href="https://ocient.com/">Ocient</a> by Stefan Renner: Architecting for Hyperscale - How Ocient Optimizes Performance, Cost, and Energy Efficiency for Massive Data Workloads. </li>
     </ul>
     Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/303804063">here</a>.
-  start: '2024-10-24T18:30:00'
-  end: '2024-10-24T21:30:00'
-  location: 'Xempus AG: Arnulfstraße 126, München, BY'
+  start: "2024-10-24T18:30:00"
+  end: "2024-10-24T21:30:00"
+  location: "Xempus AG: Arnulfstraße 126, München, BY"
 
 - title: Research Talk
   description: >
     <b>Talk by Altan Birler about <a href="https://db.in.tum.de/people/sites/birler/papers/diamond.pdf">Robust Join Processing with Diamond Hardened Joins</a>.</b>
-  start: '2024-11-07T18:00:00'
-  end: '2024-11-07T19:00:00'
+  start: "2024-11-07T18:00:00"
+  end: "2024-11-07T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Paper Reading Circle
   description: >
     <b>Moderated discussion about <a href="https://www.cs.albany.edu/~jhh/courses/readings/kemper.icde11.memory.pdf">HyPer: A Hybrid OLTP&OLAP Main Memory Database System Based on Virtual Memory Snapshots</a>.</b>
-  start: '2024-11-13T18:00:00'
-  end: '2024-11-13T19:00:00'
+  start: "2024-11-13T18:00:00"
+  end: "2024-11-13T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Research Talk
   description: >
     <b>Talk by Michael Jungmair about <a href="https://dl.acm.org/doi/pdf/10.1145/3689737">HiPy: Extracting High-Level Semantics from Python Code for Data Processing</a>.</b>
-  start: '2024-11-14T18:00:00'
-  end: '2024-11-14T19:00:00'
+  start: "2024-11-14T18:00:00"
+  end: "2024-11-14T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Industry Talk
@@ -247,44 +247,43 @@
      Please note this workshop is suited for those with some prior C++ knowledge.<br/>
      <br/>
      <b>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEMgxh64SF0vQQateMtXK4ikzjWJMli3e5RQGNB17GoYTKHQ/viewform?usp=sf_link⁣⁣">here</a>.</b>
-  start: '2024-11-21T18:00:00'
-  end: '2024-11-21T20:00:00'
+  start: "2024-11-21T18:00:00"
+  end: "2024-11-21T20:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
-  
 - title: Research Talk
   description: >
     <b>Talk by Ferdinand Gruber and Florian Drescher about Secure and Fast Data Transformations.</b>
-  start: '2024-12-12T18:00:00'
-  end: '2024-12-12T19:00:00'
+  start: "2024-12-12T18:00:00"
+  end: "2024-12-12T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Research Talk
   description: >
     <b>Talk by Mihail Stoian (UTN) about <a href="https://arxiv.org/pdf/2410.14066">Lightweight Correlation-Aware Table Compression</a>.</b>
-  start: '2025-01-09T18:00:00'
-  end: '2025-01-09T19:00:00'
+  start: "2025-01-09T18:00:00"
+  end: "2025-01-09T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Research Talk
   description: >
     <b>Talk by Tobias Schmidt about <a href="https://db.in.tum.de/people/sites/schmidt/papers/colibri.pdf">Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP</a>.</b>
-  start: '2025-01-16T18:00:00'
-  end: '2025-01-16T19:00:00'
+  start: "2025-01-16T18:00:00"
+  end: "2025-01-16T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Research Talk
   description: >
     <b>Talk by Maximilian Kuschewski about <a href="https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/umami.pdf">High-Performance Query Processing with NVMe Arrays: Spilling without Killing Performance</a>.</b>
-  start: '2025-01-23T18:00:00'
-  end: '2025-01-23T19:00:00'
+  start: "2025-01-23T18:00:00"
+  end: "2025-01-23T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Research Talk
   description: >
     <b>Talk by Prof. Dr. Thomas Neumann about <a href="https://www.conftool.net/btw2025/index.php/Neumann-Improving_Unnesting_of_Complex_Queries-114_b.pdf?page=downloadPaper&filename=Improving_Unnesting.pdf&form_id=114&form_index=2&form_version=final">Improving Unnesting of Complex Queries</a>.</b>
-  start: '2025-01-30T18:00:00'
-  end: '2025-01-30T19:00:00'
+  start: "2025-01-30T18:00:00"
+  end: "2025-01-30T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
 
 - title: Munich Database Meetup
@@ -297,6 +296,13 @@
       <li> Philipp Fent, <a href="cedardb.com">CedarDB</a>: B-Trees in CedarDB. </li>
     </ul>
     Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/306097270/">here</a>.
-  start: '2025-02-27T18:30:00'
-  end: '2025-02-27T21:30:00'
-  location: 'TNG Technology Consulting, Arabellastrasse 4a, München, BY'
+  start: "2025-02-27T18:30:00"
+  end: "2025-02-27T21:30:00"
+  location: "TNG Technology Consulting, Arabellastrasse 4a, München, BY"
+
+- title: Research Talk
+  description: >
+    <b>Talk by Andreas Zimmerer about <a href="https://andi-zimmerer.com/papers/snowflake-pruning.html">Pruning in Snowflake: Working Smarter, Not Harder</a>.</b>
+  start: "2025-05-08T18:00:00"
+  end: "2025-05-08T19:00:00"
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
