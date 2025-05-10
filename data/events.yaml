@@ -306,3 +306,24 @@
   start: "2025-05-08T18:00:00"
   end: "2025-05-08T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+- title: Munich Database Meetup
+  description: |-
+    <br>Topic: "Analytics Data Stack, Dremio and Polaris" <br/>
+    <b>Talks:</b>
+    <ul>
+      <li> Alex Merced, <a href="https://www.dremio.com/">Dremio</a>: How Dremio and Iceberg Enable the Intelligent Data Lakehouse </li>
+      <li> Jean-Baptiste Onofré: Apache Polaris: Building a Standard Catalog for the Iceberg Lakehouse Era</li>
+    </ul>
+    Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/307315814/">here</a>.
+  start: "2025-05-13T18:30:00"
+  end: "2025-05-13T21:30:00"
+  location: "Xempus Deutschland GmbH, Arnulfstraße 126, 80636 München"
+
+- title: Research Talk
+  description: >
+    <b>Talk by Alice Rey about <a href="https://db.in.tum.de/~rey/papers/nestedparquet_rey.pdf">Nested Parquet Is Flat, Why Not Use It?
+     How ToScan Nested Data With On-the-Fly Key Generation and Joins</a>.</b>
+  start: "2025-05-15T18:00:00"
+  end: "2025-05-15T19:00:00"
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
