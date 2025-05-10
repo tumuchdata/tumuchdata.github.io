@@ -37,6 +37,18 @@ name = "QuantCo"
 url = "https://www.quantco.com/"
 logo = "images/supporters/quantco_Logo.svg"
 
+[[params.supporters]]
+key = 1
+name = "CedarDB"
+url = "https://cedardb.com/"
+logo = "images/supporters/CedarDB_Logo.svg"
+
+[[params.supporters]]
+key = 2
+name = "Firebolt"
+url = "https://www.firebolt.io/"
+logo = "images/supporters/Firebolt_Logo.svg"
+
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
 
