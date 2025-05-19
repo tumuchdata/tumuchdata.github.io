@@ -327,3 +327,10 @@
   start: "2025-05-15T18:00:00"
   end: "2025-05-15T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+- title: Research Talk
+  description: >
+    <b>Talk by Prof. Jana Giceva about <i>Future-proof data systems in the post-Moore Era</i>.</b>
+  start: "2025-05-22T18:00:00"
+  end: "2025-05-22T19:00:00"
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
