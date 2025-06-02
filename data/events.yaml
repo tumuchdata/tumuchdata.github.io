@@ -341,3 +341,30 @@
   start: "2025-05-27T18:00:00"
   end: "2025-05-27T19:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+- title: Research Talk
+  description: >
+    <b>Talk by Lukas Döllerer, M.Sc. Student @TUM, about <a href="https://home.cit.tum.de/~engelke/pubs/2410-vmil.pdf">Performant Bounds Checking for 64-Bit WebAssembly</a>.</b>
+  start: "2025-06-05T18:00:00"
+  end: "2025-06-05T19:00:00"
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+- title: Research Talk
+  description: >
+    <b>Talk by Marcus Müller, PhD Student @TUM, about <a href="https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf">B-Trees Are Back: Engineering Fast and Pageable Node Layouts</a> (SIGMOD 2025 preview).</b>
+  start: "2025-06-12T18:00:00"
+  end: "2025-06-12T19:00:00"
+  location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+- title: Munich Database Meetup
+  description: |-
+    <b>Topic: "June Meetup: Real-Time Lakehouses, Iceberg, and More!" </b>
+    <b>Talks:</b>
+    <ul>
+      <li> Yingjun Wu, <a href="https://risingwave.com/fir">RisingWave Labs</a>: Building a Real-Time Lakehouse on Iceberg (Without Losing Your Mind) </li>
+      <li> Georg Kreuzmayr, <a href="https://www.firebolt.io/">Firebolt</a>: The Story of When Fire(bolt) Meets Ice(berg)</li>
+    </ul>
+    Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/308068568/">here</a>.
+  start: "2025-06-17T18:30:00"
+  end: "2025-06-17T21:00:00"
+  location: "Google Munich - Safety Engineering Center, Erika-Mann-Straße 33, 80636 München"
