@@ -16,7 +16,7 @@ We organize various events such as meetups, reading groups, industry talks, and 
 
 The management team is responsible for the overall organization and coordination of the club's activities. We are currently 12 core management team members.
 
-![Management Team](team/images/ws2425/group.jpg)
+![Management Team](team/images/ss25/group.jpg)
 
 ## Members
 
@@ -25,81 +25,64 @@ Here's our current management members:
 <div class="teamContainer">
 
 <div class="teamMember">
-<h2 id="georg">Georg Kreuzmayr</h2>
-<img class="teamMemberImage" src="team/images/georg-square.jpg" alt="Georg Kreuzmayr"  />
-<span class="teamMemberRoleSpecial">President</span>
-</div>
-
-<div class="teamMember">
 <h2 id="marlene">Marlene Bargou</h2>
-<img src="team/images/ws2425/marlene-square.jpg" alt="Marlene Bargou" class="teamMemberImage" />
-<span class="teamMemberRoleSpecial">Vice President</span>
+<img src="team/images/ss25/marlene-square.jpg" alt="Marlene Bargou" class="teamMemberImage" />
+<span class="teamMemberRoleSpecial">President</span>
 <span class="teamMemberRole">Sponsor Relations / Conference Trips</span>
 </div>
 
 <div class="teamMember">
-<h2 id="pascal">Pascal Ginter</h2>
-<img src="team/images/ws2425/pascal-square.jpg" alt="Pascal Ginter" class="teamMemberImage" />
+<h2 id="pascal">Nicolas Schmitt</h2>
+<img src="team/images/ss25/nicolas-square.jpg" alt="Nicolas Schmitt" class="teamMemberImage" />
 <span class="teamMemberRole">Social Events</span>
 </div>
 
 <div class="teamMember">
-<h2 id="pascal">Nicolas Schmitt</h2>
-<img src="team/images/ws2425/nicolas-square.jpg" alt="Nicolas Schmitt" class="teamMemberImage" />
+<h2 id="pascal">Pascal Ginter</h2>
+<img src="team/images/ss25/pascal-square.jpg" alt="Pascal Ginter" class="teamMemberImage" />
 <span class="teamMemberRole">Social Events</span>
+</div>
+
+<div class="teamMember">
+<h2 id="miguel">Lukas Neef</h2>
+<img src="team/images/ss25/lukas-square.jpg" alt="Lukas Neef" class="teamMemberImage" />
+<span class="teamMemberRole">Finance</span>
+</div>
+
+<div class="teamMember">
+<h2 id="miguel">Klara Cimbalnik</h2>
+<img src="team/images/ss25/klara-square.jpg" alt="Klara Cimbalnik" class="teamMemberImage" />
+<span class="teamMemberRole">Research Talks / Sponsor Relations</span>
 </div>
 
 <div class="teamMember">
 <h2 id="michael">Michael Zinsmeister</h2>
-<img src="team/images/ws2425/michael-square.jpg" alt="Michael Zinsmeister" class="teamMemberImage" />
+<img src="team/images/ss25/michael-square.jpg" alt="Michael Zinsmeister" class="teamMemberImage" />
 <span class="teamMemberRole">IT Infrastructure</span>
 </div>
 
 <div class="teamMember">
-<h2 id="michal">Sebastian Kosak</h2>
-<img src="team/images/ws2425/sebastian-square.jpg" alt="Sebastian Kosak" class="teamMemberImage" />
-<span class="teamMemberRole">Meetups</span>
-</div>
-
-<div class="teamMember">
-<h2 id="miguel">Miguel Marcano</h2>
-<img src="team/images/ws2425/miguel-square.jpg" alt="Miguel Marcano" class="teamMemberImage" />
+<h2 id="kate">Kate Braun</h2>
+<img src="team/images/ss25/kate-square.jpg" alt="Kate Braun" class="teamMemberImage" />
 <span class="teamMemberRole">Communication</span>
 </div>
 
 <div class="teamMember">
 <h2 id="miguel">Ludovico Capiaghi</h2>
-<img src="team/images/ws2425/ludovico-square.jpg" alt="Miguel Marcano" class="teamMemberImage" />
+<img src="team/images/ss25/ludovico-square.jpg" alt="Ludovico Capiaghi" class="teamMemberImage" />
 <span class="teamMemberRole">Communication</span>
 </div>
 
 <div class="teamMember">
-<h2 id="aliya">Aliya Bannayeva</h2>
-<img src="team/images/ws2425/aliya-square.jpg" alt="Aliya Bannayeva" class="teamMemberImage" />
-<span class="teamMemberRole">Paper Reading Circle</span>
+<h2 id="michal">Sebastian Kosak</h2>
+<img src="team/images/ss25/sebastian-square.jpg" alt="Sebastian Kosak" class="teamMemberImage" />
+<span class="teamMemberRole">Meetups</span>
 </div>
 
-<div class="teamMember">
-<h2 id="miguel">Dewangga Winasforcepta</h2>
-<img src="team/images/ws2425/dewangga-square.jpg" alt="Dewangga Winasforcepta" class="teamMemberImage" />
-<span class="teamMemberRole">Coding Challenges</span>
-</div>
 
-<div class="teamMember">
-<h2 id="miguel">Klara Cimbalnik</h2>
-<img src="team/images/ws2425/klara-square.jpg" alt="Klara Cimbalnik" class="teamMemberImage" />
-<span class="teamMemberRole">Research Talks / Sponsor Relations</span>
-</div>
 
-<div class="teamMember">
-<h2 id="miguel">Lukas Neef</h2>
-<img src="team/images/ws2425/lukas-square.jpg" alt="Lukas Neef" class="teamMemberImage" />
-<span class="teamMemberRole">Finance</span>
-</div>
 
 </div>
-
-Pictures by [Janez Rotman](https://www.linkedin.com/in/janez-rotman-35a140231/)
 
 
 # Contact us 
