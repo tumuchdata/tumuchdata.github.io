@@ -34,6 +34,7 @@ Here's our current management members:
 <div class="teamMember">
 <h2 id="pascal">Nicolas Schmitt</h2>
 <img src="team/images/ss25/nicolas-square.jpg" alt="Nicolas Schmitt" class="teamMemberImage" />
+<span class="teamMemberRoleSpecial">Vice President</span>
 <span class="teamMemberRole">Social Events</span>
 </div>
 
