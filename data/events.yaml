@@ -378,3 +378,15 @@
   start: "2025-06-20T16:00:00"
   end: "2025-06-20T18:00:00"
   location: Boltzmannstraße 3, 85748 Garching, room <a href="https://nav.tum.de/room/5609.02.014">02.09.014</a>
+
+- title: Munich Database Meetup
+  description: |-
+    <b> July Meetup @ SAP: Inside the Modern Lakehouse: HANA and TiDB</b>
+    <ul>
+      <li> Paul Willems & Daniel Ritter, <a href="http://www.sap.com/">SAP</a>: The HANA Native Query Engine for Lakehouse Systems</li>
+      <li> Daniël van Eeden, TIDB (powered by <a href="https://www.pingcap.com/">PingCap</a>): TiDB under the hood</li>
+    </ul>
+    Get more information and register for the event <a href="https://www.meetup.com/munich-database-meetup/events/308582360">here</a>.
+  start: "2025-07-07T18:30:00"
+  end: "2025-07-07T21:00:00"
+  location: "SAP Labs Munich, Friedrich-Ludwig-Bauer-Straße 5, Garching"
