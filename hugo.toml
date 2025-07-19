@@ -49,6 +49,11 @@ name = "Firebolt"
 url = "https://www.firebolt.io/"
 logo = "images/supporters/Firebolt_Logo.svg"
 
+[[params.supporters]]
+key = 3
+name = "TigerBeetle"
+logo = "images/supporters/Tigerbeetle_Logo.svg"
+
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
 
